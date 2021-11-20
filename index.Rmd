@@ -1,0 +1,22 @@
+---
+title: "Hello World!"
+date: "11/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Hello!
+
+Good morning, good afternoon or good evening!
+
+I'm Masaru Ishikawa, a university student in Japan!
+
+My research topic are Time Series Analysis and Discrete Choice Analysis.
+
+I'm happy if you enjoy this website!
+
+See you Later
